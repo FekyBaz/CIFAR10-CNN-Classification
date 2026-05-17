@@ -88,8 +88,6 @@ Training curves (accessible within the notebook) indicate smooth convergence:
 ```
 .
 ├── CIFAR10_Assignment.ipynb    # Main completed assignment notebook with all outputs
-├── CV_Lab_CNN.ipynb            # Reference laboratory manual notebook
-├── CV_Lab_CNN.pdf              # Reference laboratory manual PDF instructions
 ├── requirements.txt            # Required Python packages and dependencies
 ├── .gitignore                  # Git ignore configurations
 └── README.md                   # Project documentation
